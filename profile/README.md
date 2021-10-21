@@ -13,3 +13,22 @@
 [![Linkedin](https://img.shields.io/badge/Vikash%20Patel-Linkedin-0077b5.svg?maxAge=3600)](https://www.linkedin.com/in/vikaspatelp83)
   
 </div>
+
+<table align='center'> 
+  <thead> 
+    <tr>
+      <td> Project </td>
+      <td> Status </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        Django Tdd Apis 
+      </td>
+      <td>  
+        <img src='https://github.com/lorbic/django-tdd-apis/actions/workflows/django.yml/badge.svg' />
+      </td>
+    </tr>
+  </tbody>
+</table>
