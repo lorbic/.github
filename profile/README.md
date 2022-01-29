@@ -37,24 +37,29 @@
 <hr>
 <div align='center'>
   <h3>👇 MAINTAINER(S) 👇</h3> 
-  <a href = "https://github.com/vk4s" target='_BLANK'>
-    <figure>
-      <img src = "https://contrib.rocks/image?repo=lorbic/.github"/>
-      <figcaption>
-        <br>
-        @vk4s
-      </figcaption>
-    </figure>
-  </a>
-  <a href = "https://github.com/ak4shp" target='_BLANK'>
-    <figure>
-      <img src = "https://contrib.rocks/image?repo=lorbic/.github"/>
-      <figcaption>
-        <br>
-        @vk4s
-      </figcaption>
-    </figure>
-  </a>
+  <table>
+    <td>
+      <a href = "https://github.com/vk4s" target='_BLANK'>
+        <figure>
+          <img src = "https://contrib.rocks/image?repo=lorbic/.github"/>
+          <figcaption>
+            <br>
+            @vk4s
+          </figcaption>
+        </figure>
+      </a>
+    </td>
+    <td>
+      <a href = "https://github.com/ak4shp" target='_BLANK'>
+        <figure>
+          <img src = "https://contrib.rocks/image?repo=lorbic/.github"/>
+          <figcaption>
+            <br>
+            @ak4shp
+          </figcaption>
+        </figure>
+      </a>
+    </td>
 </div>
 
 
