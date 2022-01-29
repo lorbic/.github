@@ -52,7 +52,7 @@
     <td>
       <a href = "https://github.com/ak4shp" target='_BLANK'>
         <figure>
-          <img src = "https://contrib.rocks/image?repo=lorbic/.github"/>
+          <img src = "https://contrib.rocks/image?repo=ak4shp/ak4shp"/>
           <figcaption>
             <br>
             @ak4shp
