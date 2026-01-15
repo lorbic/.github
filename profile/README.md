@@ -49,17 +49,6 @@
         </figure>
       </a>
     </td>
-    <td>
-      <a href = "https://github.com/ak4shp" target='_BLANK'>
-        <figure>
-          <img src = "https://contrib.rocks/image?repo=ak4shp/ak4shp"/>
-          <figcaption>
-            <br>
-            @ak4shp
-          </figcaption>
-        </figure>
-      </a>
-    </td>
 </div>
 
 
